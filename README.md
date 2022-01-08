@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+<p>A technically competent IT professional with more than 2+ years of overall manual and automation Quality assurance experience in agile and waterfall methodologies</p>
+
+
 <!--
 **SRathmal/SRathmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p>A technically competent IT professional with more than 2+ years of overall manual and automation Quality assurance experience in agile and waterfall methodologies</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
